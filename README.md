@@ -2,8 +2,8 @@
 Distributed System lab exercise(socket programming)
 
 
-Project Group
-1
+Project Group Members:
+
 Aniruddha Mukherjee
 Rahul Gautam
 Dhananjay Dubey
